@@ -22,8 +22,15 @@
 | Mündliche Methodenreflexion: Reflexion des Vorgehens                       | 5      |
 | **Total**                                                                  | **50** |
 
+## Umfang
+
+Die Arbeit umfasst 30'000 bi 35'000 Zeichen inkl. Leerzeichen ohne Abstract, Verzeichnisse und Anhang.
+
+| Teil       | Anteil |
+| ---------- | ------ |
+| Einleitung | 10%    |
+| Hauptteil  | 80%    |
+| Konklusion | 10%    |
+
 ## Notes
 
-- Umfang 30000 - 35000 Zeichen
-  - Einleitung und Konklusion nehmen je etwa 10% ein
-  - 80% Hauptteil
