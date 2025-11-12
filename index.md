@@ -1,0 +1,3 @@
+# Bachelor Concept
+
+- [kickoff](kickoff)
