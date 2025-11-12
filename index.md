@@ -1,3 +1,4 @@
 # Bachelor Concept
 
-- [kickoff](kickoff)
+- [Kickoff](kickoff)
+- [Wissenschaftliche Arbeit](wissenschaftliche-arbeit)
