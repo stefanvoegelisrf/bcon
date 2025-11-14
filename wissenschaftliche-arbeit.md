@@ -32,5 +32,10 @@ Die Arbeit umfasst 30'000 bi 35'000 Zeichen inkl. Leerzeichen ohne Abstract, Ver
 | Hauptteil  | 80%    |
 | Konklusion | 10%    |
 
-## Notes
+## Umgang mit Quellen
 
+- Überprüfen ob die Quellen richtig hinterlegt sind
+  - z.B. dass effektiv die Zeitschrift referenziert ist und nicht die Webseite, auf der das gefunden wurde
+  - direkt Seitenzahlen angeben
+  - APA Zitierstil verwenden
+  - Zotero zum Verwalten der Quellen verwenden

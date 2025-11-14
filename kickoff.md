@@ -57,13 +57,24 @@ Sung Tieu (*1987) wurde in Hải Dương, Vietnam, geboren und wuchs in Berlin z
     - Im Erkundungsteil der Installation sind 2 Buttons platziert. Beim Drücken des einen, führt das dazu, dass Milchglas klar wird und man einen ausgestopften Eisbär in einer Holzbox sieht. Beim Drücken des Zweiten ertönt das Bellen von Schlittenhunden.
   - Museum für Kommunikation
     - 
-- Wie leicht sind die Interaktionsmöglichkeiten zugänglich? 
+- Wie leicht sind die Interaktionsmöglichkeiten zugänglich?
+  - ALPS
+    - Die Interaktionsmöglichkeiten waren aus meiner Sicht leicht zugänglich durch Einstecken, Drücken und Öffnen. Wenn man in der Benützung der Hände eingeschränkt ist, benötigt man Unterstützung.
 - Welcher Mehrwert wird dadurch generiert? – Spass, Lerneffekt, was den zu vermittelnden Inhalt angeht, soziale Aspekte des Ausstellungsbesuchs, …
+  - ALPS
+    - Die Tanzfläche, wo Musik gehört werden kann, könnte zu sozialer Interaktion führen.
+    - Das Öffnen der Plastikboxen führt dazu, dass man zu Inhalten etwas lernen kann.
+    - Das Einstecken der Kopfhörer führt dazu, dass man Ton wahrnimmt.
+    - Zu Spass führten die Interaktionen aus meiner Sicht nicht.
+    - Die Interaktionsmöglichkeiten boten den Mehrwert, dass sich körperlich betätigen musste, um zu gewissen Inhalten Zugang zu erhalten. So nimmt man etwas mehr an der Ausstellung teil.
 
 ### DRAMATURGIE
 
 - Wie werden die Besuchenden durch die Ausstellung geführt? 
-- Ist der Ablauf klar und schlüssig, intuitiv oder muss man Wege suchen? 
+- Ist der Ablauf klar und schlüssig, intuitiv oder muss man Wege suchen?
+  - ALPS
+    - Der zentrale Teil der Ausstellung sind die 30 Interviews der Ausstellung.
+    - 
 - Was macht die Dramaturgie mit mir?
 
 ### SZENOGRAFIE
