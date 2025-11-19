@@ -37,5 +37,12 @@ Die Arbeit umfasst 30'000 bi 35'000 Zeichen inkl. Leerzeichen ohne Abstract, Ver
 - Überprüfen ob die Quellen richtig hinterlegt sind
   - z.B. dass effektiv die Zeitschrift referenziert ist und nicht die Webseite, auf der das gefunden wurde
   - direkt Seitenzahlen angeben
-  - APA Zitierstil verwenden
-  - Zotero zum Verwalten der Quellen verwenden
+- APA Zitierstil verwenden
+- Zotero zum Verwalten der Quellen verwenden
+- Hinweis, wenn etwas übersetzt wurde und durch wen/was übersetzt wurde
+- wenn ein Zitat zu lang wird oder irrelevante Teile drin sind, dann mit [...] abkürzen
+
+## Sprache & Bild
+
+- [HSLU Leitfaden Sprache und Bild](./Leitfaden%20Sprache%20und%20Bild.pdf) beachten
+- Meinungen und Aussagen klar erkenntlich machen
